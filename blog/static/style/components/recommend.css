@@ -1,0 +1,9 @@
+.recommend-div{
+    margin-top: .5rem;
+}
+.recommend-div div{
+
+    border-radius: .3rem;
+    margin-bottom: .2rem;
+    overflow: hidden;
+}
